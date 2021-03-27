@@ -6,7 +6,7 @@
   ],
   "properties": {
     "data": {
-      "type": "string",
+      "type": "integer",
       "minLength": 1
     }
   }
